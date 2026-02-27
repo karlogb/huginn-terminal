@@ -19,16 +19,16 @@ A dark, neon-accented terminal theme for **macOS Terminal.app** inspired by Nors
 
 Every color is named after a concept from Norse mythology:
 
-| Color | Hex | Name | Origin |
-|:---:|:---:|:---|:---|
-| ![#080c12](https://via.placeholder.com/16/080c12/080c12.png) | `#080c12` | **Ginnungagap** | The primordial void before creation |
-| ![#b0c4de](https://via.placeholder.com/16/b0c4de/b0c4de.png) | `#b0c4de` | **Rune Silver** | Color of carved rune inscriptions |
-| ![#00e5ff](https://via.placeholder.com/16/00e5ff/00e5ff.png) | `#00e5ff` | **Frost** | Ice of Niflheim, realm of cold |
-| ![#ffc107](https://via.placeholder.com/16/ffc107/ffc107.png) | `#ffc107` | **Odin's Eye** | The eye sacrificed for wisdom |
-| ![#ff003c](https://via.placeholder.com/16/ff003c/ff003c.png) | `#ff003c` | **Ragnarok** | The twilight of the gods |
-| ![#00ff9f](https://via.placeholder.com/16/00ff9f/00ff9f.png) | `#00ff9f` | **Yggdrasil** | Leaves of the world tree |
-| ![#0080ff](https://via.placeholder.com/16/0080ff/0080ff.png) | `#0080ff` | **Bifrost** | The rainbow bridge to Asgard |
-| ![#d946ef](https://via.placeholder.com/16/d946ef/d946ef.png) | `#d946ef` | **Seidr** | The color of Norse magic |
+| Hex | Name | Origin |
+|:---:|:---|:---|
+| `#080c12` | **Ginnungagap** | The primordial void before creation |
+| `#b0c4de` | **Rune Silver** | Color of carved rune inscriptions |
+| `#00e5ff` | **Frost** | Ice of Niflheim, realm of cold |
+| `#ffc107` | **Odin's Eye** | The eye sacrificed for wisdom |
+| `#ff003c` | **Ragnarok** | The twilight of the gods |
+| `#00ff9f` | **Yggdrasil** | Leaves of the world tree |
+| `#0080ff` | **Bifrost** | The rainbow bridge to Asgard |
+| `#d946ef` | **Seidr** | The color of Norse magic |
 
 <details>
 <summary><b>Full ANSI palette</b></summary>
